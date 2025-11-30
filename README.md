@@ -1,8 +1,8 @@
-🏃‍♂️👟 ## Nike Sales Analysis Dashboard (Tableau)
+ ## Nike Sales Analysis Dashboard (Tableau)
 
 This project presents an interactive Tableau dashboard built to analyze Nike’s sales performance across products, retailers, sales channels, time, and U.S. states. The dashboard highlights key sales metrics and uncovers patterns that help understand customer preferences, high-performing markets, and overall business trends.
 
-📌 ### Project Overview
+### Project Overview
 
 The goal of this project was to explore Nike’s sales data and build a visually engaging, insight-driven dashboard.
 Using Tableau, I developed multiple views that examine:
@@ -21,7 +21,7 @@ Sales by U.S. State (Geospatial Map)
 
 This dashboard uses a clean black-and-orange Nike-themed UI for intuitive navigation and strong visual storytelling.
 
-📊 ### Dashboard Highlights
+### Dashboard Highlights
 ✔ Total Sales Overview
 
 A high-level KPI section showing total sales, total units sold, and the average price per unit.
@@ -46,7 +46,7 @@ Month-over-month view showing seasonal fluctuations and performance peaks.
 
 A filled map that highlights high-revenue states like California, Texas, Florida, and New York.
 
-🧰 ### Tech Stack
+### Tech Stack
 
 Tableau – Dashboard design & visualization
 
@@ -56,7 +56,7 @@ Tableau Map Layers – Geospatial visuals
 
 Color-themed UI/UX – Custom Nike brand styling
 
-🧠 ### Skills Demonstrated
+### Skills Demonstrated
 
 Data Cleaning & Preparation
 
